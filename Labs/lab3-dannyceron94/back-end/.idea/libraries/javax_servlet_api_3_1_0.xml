@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="javax.servlet-api-3.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-client-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-http-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-io-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-security-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-servlet-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-util-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-webapp-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/jetty-xml-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/slf4j-simple-1.7.26.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/spark-core-2.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/websocket-api-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/websocket-client-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/websocket-common-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/websocket-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/school/sfsu/Spring 2019/Software development/jar files/websocket-servlet-9.4.12.v20180830.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

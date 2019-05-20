@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="bson-3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/bson-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/bson-3.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-client-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-http-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-io-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-security-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-servlet-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-util-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-webapp-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/jetty-xml-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/mongodb-driver-3.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/mongodb-driver-core-3.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/slf4j-simple-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/spark-core-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/websocket-api-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/websocket-client-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/websocket-common-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/websocket-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../DDAMNJARS/websocket-servlet-9.4.12.v20180830.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

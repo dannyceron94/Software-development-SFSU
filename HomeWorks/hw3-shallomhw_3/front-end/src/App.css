@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.widget {
+  width: 400px;
+  height: 500px;
+  border: 5px solid white;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.widget h3{
+  font-size: 100px;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+
+
+.List{
+  width: 350px;
+  height: 350px;
+  border: 2px solid white;
+  border-radius: 10px;
+  background-color: ivory;
+  padding: 5px;
+  margin: auto;
+  text-align: left;
+  color: black;
+  overflow: scroll;
+  margin-top: 5%;
+
+}
+
+.content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid silver;
+}
